@@ -4,9 +4,9 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-  "test": "jest",
-  "prettier": "prettier --check ."
-},
+    "test": "jest",
+    "prettier": "prettier --check ."
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/felipesierra13/clase6.git"
